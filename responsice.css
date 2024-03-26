@@ -1,0 +1,8 @@
+@media only screen and (min-width: 400px) and (max-width: 450px) {
+  .quote-box {
+    width: 90%;
+  }
+  #cr{
+    margin-left:  75%;
+}
+}
